@@ -38,7 +38,7 @@
   - Web-based system development for IP policy administration
   
 ## Education
-- **INTELLIAS DevOps Camp "From Junior to Middle" 2021**
+- **INTELLIAS DevOps Camp 2021**
 - **EPAM DevOps Summer Program 2020**
 - **LITS Academy, Course "True DevOps" 2019**
 - **I.Franko Lviv National University, Applied Mathematics and Informatics Department**
