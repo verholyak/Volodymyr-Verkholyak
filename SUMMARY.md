@@ -1,5 +1,3 @@
-# Short Summary
-
 ## Experience
 - **DevOps Engineer**  
   *INTELLIAS*  
